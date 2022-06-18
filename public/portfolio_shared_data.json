@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Kris Dunning",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Air Force Veteran studying full stack web development at Code Fellows. Based out of Seattle, WA." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/KrisDunning",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/krisdunning/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
